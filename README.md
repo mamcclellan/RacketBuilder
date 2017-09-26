@@ -24,7 +24,6 @@ https://github.com/mamcclellan/RacketBuilder.git
 
 Open with Android Studio
 
-```
 
 Then to launch set up an Android Virtual Device, or connect a modern Android phone with developer options turned on.
 
