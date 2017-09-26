@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Racket Builder</string>
+    <string name="racket_name">Racket Name:</string>
+    <string name="performance_stats">Performance Stats</string>
+    <string name="stats_info">stats_info</string>
+    <string name="racket_parameters">Racket Parameters</string>
+    <string name="param_info">param_info</string>
+    <string name="back_to_list">Back to List</string>
+    <string name="set_strings">Set Strings</string>
+    <string name="appraise">Appraise</string>
+    <string name="head_size">Head Size:</string>
+    <string name="weight">Weight:</string>
+    <string name="balance">Balance:</string>
+    <string name="length">Length:</string>
+    <string name="stiffness">Stiffness:</string>
+    <string name="strings">Strings:</string>
+    <string name="mains">Mains</string>
+    <string name="crosses">Crosses</string>
+    <string name="tension">Tension:</string>
+    <string name="gauge">Gauge:</string>
+    <string name="racket_view">racket_view</string>
+    <string name="power">POWER</string>
+    <string name="spin">SPIN</string>
+    <string name="swing_speed">SWING SPEED</string>
+    <string name="control">CONTROL</string>
+    <string name="volley">VOLLEY</string>
+    <string name="my_appraisal">My Appraisal:</string>
+    <string name="add_a_racket">Add a Racket</string>
+    <string name="title_logo">title_logo</string>
+    <string name="add_racket_icon">add_racket_icon</string>
+</resources>

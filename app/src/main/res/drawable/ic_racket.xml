@@ -1,0 +1,34 @@
+<vector
+    android:height="120dp"
+    android:width="100dp"
+    android:viewportHeight="1200.0"
+    android:viewportWidth="1000.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <path
+        android:name="vector_racket_head"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="20"
+        android:pathData="
+        M 500,60
+        C 750,60 750,500 500,500
+        C 250,500 250,60, 500,60
+       "/>
+    <path
+        android:name="vector_racket_handle"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="50"
+        android:pathData="
+        M 500,1140
+        L 500,780
+        " />
+    <path
+        android:name="vector_racket_throat"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="20"
+        android:pathData="
+        M 500,780
+        C 500,700 500,550 390,463
+        M 500,780
+        C 500,700 500,550 610,463
+        " />
+</vector>
